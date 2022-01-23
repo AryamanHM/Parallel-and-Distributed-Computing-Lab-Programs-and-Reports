@@ -1,0 +1,15 @@
+Mr. X has recently learnt about Fibonacci series, and told his father about it. His father being
+
+a mathematician asked him to tell the Nth number of the Fibonacci series.
+
+But, Mr.X told his father that it is difficult to solve the series as he is getting very large
+
+numbers. His father being lenient made his work less and asked to tell only last two digits
+
+of the Nth number of Fibonacci series. Please help Mr.X to find the answer
+
+Note: 1st element of series is 1. And 2nd element of series is 1.
+
+If last 2 digits are 03(for instance) print 3.
+
+Implement a ‘C’ Parallel Program of your choice (Open MP/MPI) for the above scenario.
